@@ -1,3 +1,7 @@
-.carousel-title{
-    background-color: rgba(15, 11, 13, 0.5);
+
+.low-bright{
+    filter: brightness(50%);
+}
+.e-learning-back-color{
+    background-color: #F4FAFD;
 }
